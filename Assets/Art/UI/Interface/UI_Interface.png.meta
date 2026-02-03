@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: bc99a30c6a2c45f498da5528e1026913
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9006382222299238608
+    second: UI_Interface_0
+  - first:
+      213: 4591403591589717300
+    second: UI_Interface_1
+  - first:
+      213: 6225976877944024123
+    second: UI_Interface_2
+  - first:
+      213: 8126200593413434908
+    second: UI_Interface_3
+  - first:
+      213: 6567263025651892027
+    second: UI_Interface_4
+  - first:
+      213: -8191156042620933414
+    second: UI_Interface_5
+  - first:
+      213: 2873589741127620709
+    second: UI_Interface_6
+  - first:
+      213: -7267783330501050823
+    second: UI_Interface_7
+  - first:
+      213: -8228827640150659698
+    second: UI_Interface_8
+  - first:
+      213: -475089947675477242
+    second: UI_Interface_9
+  - first:
+      213: -6879146815356456263
+    second: UI_Interface_10
+  - first:
+      213: 1079713170206818657
+    second: UI_Interface_11
+  - first:
+      213: 28783041994466955
+    second: UI_Interface_12
+  - first:
+      213: -8989242616500170039
+    second: UI_Interface_13
+  - first:
+      213: -9084359885795931129
+    second: UI_Interface_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Int_Mask
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 114
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c26addbfc176650800000000000000
+      internalID: 6225976877944024123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Mask
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 114
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ee9ff926016c070800000000000000
+      internalID: 8126200593413434908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Str_Mask
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 114
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fb98e4dea932b50800000000000000
+      internalID: 6567263025651892027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Str_Attack
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 84
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ebaf83195a32b90800000000000000
+      internalID: -7267783330501050823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Attack
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 84
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d67e60cd45dcd80800000000000000
+      internalID: -8228827640150659698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP_Out
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 98
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bb170b5342869f0800000000000000
+      internalID: -475089947675477242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP_In
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 88
+        width: 58
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b23be03b6c5880a0800000000000000
+      internalID: -6879146815356456263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Int_Attack
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86a2a13602466000800000000000000
+      internalID: 28783041994466955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatBack
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 52
+        width: 100
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c254b3a77bcf3380800000000000000
+      internalID: -8989242616500170039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c435b90dedde180800000000000000
+      internalID: -9084359885795931129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7107ee21ac45e7344aa68458a5b5b1bb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cha_Attack: -8228827640150659698
+      Cha_Mask: 8126200593413434908
+      CombatBack: -8989242616500170039
+      Front: -9084359885795931129
+      HP_In: -6879146815356456263
+      HP_Out: -475089947675477242
+      Int_Attack: 28783041994466955
+      Int_Mask: 6225976877944024123
+      Str_Attack: -7267783330501050823
+      Str_Mask: 6567263025651892027
+      UI_Interface_0: -9006382222299238608
+      UI_Interface_1: 4591403591589717300
+      UI_Interface_11: 1079713170206818657
+      UI_Interface_5: -8191156042620933414
+      UI_Interface_6: 2873589741127620709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

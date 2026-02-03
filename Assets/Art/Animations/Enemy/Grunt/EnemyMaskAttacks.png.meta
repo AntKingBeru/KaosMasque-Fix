@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 5f75f160ee91cba43bc4206abe3bb5d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7300956735042579797
+    second: EnemyMaskAttacks_0
+  - first:
+      213: -6043439653255514362
+    second: EnemyMaskAttacks_1
+  - first:
+      213: -1031751612934152045
+    second: EnemyMaskAttacks_2
+  - first:
+      213: 704903262105512614
+    second: EnemyMaskAttacks_3
+  - first:
+      213: -5975930751916933419
+    second: EnemyMaskAttacks_4
+  - first:
+      213: 4270253782410881090
+    second: EnemyMaskAttacks_5
+  - first:
+      213: -2618063541015686195
+    second: EnemyMaskAttacks_6
+  - first:
+      213: 2216000170952111021
+    second: EnemyMaskAttacks_7
+  - first:
+      213: 1879568073657946264
+    second: EnemyMaskAttacks_8
+  - first:
+      213: -5013740310387859632
+    second: EnemyMaskAttacks_9
+  - first:
+      213: 5016308678444457361
+    second: EnemyMaskAttacks_10
+  - first:
+      213: 3495130892750890064
+    second: EnemyMaskAttacks_11
+  - first:
+      213: 2517741049089179752
+    second: EnemyMaskAttacks_12
+  - first:
+      213: -7885409945949374934
+    second: EnemyMaskAttacks_13
+  - first:
+      213: 1341242388806321728
+    second: EnemyMaskAttacks_14
+  - first:
+      213: 5100952916104198783
+    second: EnemyMaskAttacks_15
+  - first:
+      213: -2009909381929403255
+    second: EnemyMaskAttacks_16
+  - first:
+      213: -9129152253741909990
+    second: EnemyMaskAttacks_17
+  - first:
+      213: -5998033560663155566
+    second: EnemyMaskAttacks_18
+  - first:
+      213: -8550397486626245880
+    second: EnemyMaskAttacks_19
+  - first:
+      213: 8781835391254675040
+    second: EnemyMaskAttacks_20
+  - first:
+      213: 613775497109257735
+    second: EnemyMaskAttacks_21
+  - first:
+      213: 2131325353755755295
+    second: EnemyMaskAttacks_22
+  - first:
+      213: 5927973871478274525
+    second: EnemyMaskAttacks_23
+  - first:
+      213: 6686378256622733450
+    second: EnemyMaskAttacks_24
+  - first:
+      213: -5442627187575164357
+    second: EnemyMaskAttacks_25
+  - first:
+      213: 1511907804087797301
+    second: EnemyMaskAttacks_26
+  - first:
+      213: -198053602564360440
+    second: EnemyMaskAttacks_27
+  - first:
+      213: -8040707532436661886
+    second: EnemyMaskAttacks_28
+  - first:
+      213: -3724200435454150118
+    second: EnemyMaskAttacks_29
+  - first:
+      213: -5848406675529260323
+    second: EnemyMaskAttacks_30
+  - first:
+      213: -7527122945243138380
+    second: EnemyMaskAttacks_31
+  - first:
+      213: -1575635647034276270
+    second: EnemyMaskAttacks_32
+  - first:
+      213: -3106827981291100958
+    second: EnemyMaskAttacks_33
+  - first:
+      213: 512523365137233475
+    second: EnemyMaskAttacks_34
+  - first:
+      213: 8540894608881499966
+    second: EnemyMaskAttacks_35
+  - first:
+      213: -3896473171460888633
+    second: EnemyMaskAttacks_36
+  - first:
+      213: -6636448195710867346
+    second: EnemyMaskAttacks_37
+  - first:
+      213: 1433113812399225381
+    second: EnemyMaskAttacks_38
+  - first:
+      213: -6360246783172795200
+    second: EnemyMaskAttacks_39
+  - first:
+      213: -7485582645839499043
+    second: EnemyMaskAttacks_40
+  - first:
+      213: 4256257833291011013
+    second: EnemyMaskAttacks_41
+  - first:
+      213: -6064509050309626868
+    second: EnemyMaskAttacks_42
+  - first:
+      213: -3434360101293116039
+    second: EnemyMaskAttacks_43
+  - first:
+      213: -8927435810280517716
+    second: EnemyMaskAttacks_44
+  - first:
+      213: -5677061720637792839
+    second: EnemyMaskAttacks_45
+  - first:
+      213: 6863499515654069788
+    second: EnemyMaskAttacks_46
+  - first:
+      213: 731436855689392423
+    second: EnemyMaskAttacks_47
+  - first:
+      213: -6020465352015198070
+    second: EnemyMaskAttacks_48
+  - first:
+      213: -7385331865804108496
+    second: EnemyMaskAttacks_49
+  - first:
+      213: -4349930162543390058
+    second: EnemyMaskAttacks_50
+  - first:
+      213: -6049382257521058689
+    second: EnemyMaskAttacks_51
+  - first:
+      213: -281773999982566408
+    second: EnemyMaskAttacks_52
+  - first:
+      213: -2437211407267329749
+    second: EnemyMaskAttacks_53
+  - first:
+      213: 788634206557175352
+    second: EnemyMaskAttacks_54
+  - first:
+      213: 4806645796067390795
+    second: EnemyMaskAttacks_55
+  - first:
+      213: -6128141844009325718
+    second: EnemyMaskAttacks_56
+  - first:
+      213: -2511090324864338997
+    second: EnemyMaskAttacks_57
+  - first:
+      213: -577179050225321963
+    second: EnemyMaskAttacks_58
+  - first:
+      213: -6681330149156848771
+    second: EnemyMaskAttacks_59
+  - first:
+      213: 5687828889628422119
+    second: EnemyMaskAttacks_60
+  - first:
+      213: 377398261539741955
+    second: EnemyMaskAttacks_61
+  - first:
+      213: 2059716507247072921
+    second: EnemyMaskAttacks_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba29a47188acdaa90800000000000000
+      internalID: -7300956735042579797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607f136a7a3612ca0800000000000000
+      internalID: -6043439653255514362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390af9edf5b7ea1f0800000000000000
+      internalID: -1031751612934152045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa20da38c158c900800000000000000
+      internalID: 704903262105512614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de78a994aa311da0800000000000000
+      internalID: -5975930751916933419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2486e59b03df24b30800000000000000
+      internalID: 4270253782410881090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3db5e9415caabd0800000000000000
+      internalID: -2618063541015686195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da33ec32a60d0ce10800000000000000
+      internalID: 2216000170952111021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8901c816431951a10800000000000000
+      internalID: 1879568073657946264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f564b60cd9b6ab0800000000000000
+      internalID: -5013740310387859632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d146e5a228d9540800000000000000
+      internalID: 5016308678444457361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05429e96703318030800000000000000
+      internalID: 3495130892750890064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86041630520d0f220800000000000000
+      internalID: 2517741049089179752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26fa5fce65619290800000000000000
+      internalID: -7885409945949374934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0464f7ea8dc0d9210800000000000000
+      internalID: 1341242388806321728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a3264b6a93ac640800000000000000
+      internalID: 5100952916104198783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c7f5be01e5b14e0800000000000000
+      internalID: -2009909381929403255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18b14fb46cbe4180800000000000000
+      internalID: -9129152253741909990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c1dc96144b2cca0800000000000000
+      internalID: -5998033560663155566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803ff31b9c2e65980800000000000000
+      internalID: -8550397486626245880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMaskAttacks_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e30bb92c85fd970800000000000000
+      internalID: 8781835391254675040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 83c24a23ccb5e3440b988900688ebbf5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":6.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      EnemyMaskAttacks_0: -7300956735042579797
+      EnemyMaskAttacks_1: -6043439653255514362
+      EnemyMaskAttacks_10: 5016308678444457361
+      EnemyMaskAttacks_11: 3495130892750890064
+      EnemyMaskAttacks_12: 2517741049089179752
+      EnemyMaskAttacks_13: -7885409945949374934
+      EnemyMaskAttacks_14: 1341242388806321728
+      EnemyMaskAttacks_15: 5100952916104198783
+      EnemyMaskAttacks_16: -2009909381929403255
+      EnemyMaskAttacks_17: -9129152253741909990
+      EnemyMaskAttacks_18: -5998033560663155566
+      EnemyMaskAttacks_19: -8550397486626245880
+      EnemyMaskAttacks_2: -1031751612934152045
+      EnemyMaskAttacks_20: 8781835391254675040
+      EnemyMaskAttacks_3: 704903262105512614
+      EnemyMaskAttacks_4: -5975930751916933419
+      EnemyMaskAttacks_5: 4270253782410881090
+      EnemyMaskAttacks_6: -2618063541015686195
+      EnemyMaskAttacks_7: 2216000170952111021
+      EnemyMaskAttacks_8: 1879568073657946264
+      EnemyMaskAttacks_9: -5013740310387859632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
