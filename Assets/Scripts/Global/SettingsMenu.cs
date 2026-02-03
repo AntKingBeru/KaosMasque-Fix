@@ -10,7 +10,7 @@ public class SettingsMenu : MonoBehaviour
     [SerializeField] private Slider sfxSlider;
 
     private const string MusicParam = "MusicVolume";
-    private const string SfxParam = "SFXVolume";
+    private const string SfxParam = "SfxVolume";
 
     private void OnEnable()
     {

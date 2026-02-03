@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c884500358b4e8845b880cdf6ae6616d, type: 3}
   m_Name: Goal
   m_EditorClassIdentifier: Assembly-CSharp::DialogueParagraph
-  text: 'There are more type, and even better version of masks out there for you
-    to win!
+  text: 'There are more types, and even better versions of your masks out there for
+    you to find!
 
-    Try and upgrade as much as you can to win against the Reigning Champion
-    - "La Mariposa Eldritch"'
+    Try and upgrade as much as you can to win against the Reigning
+    Champions - "La Mariposa Eldritch", and "La Polilla Antigua"'
   triggerAnimation: 0
   animationTrigger: 
