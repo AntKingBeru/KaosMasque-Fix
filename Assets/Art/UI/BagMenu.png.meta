@@ -1,25 +1,16 @@
 fileFormatVersion: 2
-guid: fe71023b928dc814a9f8c8b5b348b773
+guid: fda3e757926b16c449429e879b9df62a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8631283204784401669
-    second: PlayerMaskIcon_0
+      213: 4871809735609114892
+    second: BagMenu_0
   - first:
-      213: 436859146730752373
-    second: PlayerMaskIcon_1
+      213: -8601661415780687150
+    second: BagMenu_1
   - first:
-      213: 2994899504962402673
-    second: PlayerMaskIcon_2
-  - first:
-      213: 2791062846045686374
-    second: PlayerMaskIcon_3
-  - first:
-      213: 8498857436963066797
-    second: PlayerMaskIcon_4
-  - first:
-      213: 6923675240861992245
-    second: PlayerMaskIcon_5
+      213: -8404450785818495790
+    second: BagMenu_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,7 +107,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -128,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PlayerMaskIcon_0
+      name: BagMenu_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 34
-        width: 18
-        height: 18
+        x: 6
+        y: 59
+        width: 96
+        height: 93
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf2d70fd7a5873880800000000000000
-      internalID: -8631283204784401669
+      spriteID: c01654084252c9340800000000000000
+      internalID: 4871809735609114892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerMaskIcon_1
+      name: BagMenu_1
       rect:
         serializedVersion: 2
-        x: 27
-        y: 34
-        width: 18
-        height: 18
+        x: 107
+        y: 35
+        width: 128
+        height: 117
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,20 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 57944c15419001600800000000000000
-      internalID: 436859146730752373
+      spriteID: 2d265321482c0a880800000000000000
+      internalID: -8601661415780687150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerMaskIcon_2
+      name: BagMenu_2
       rect:
         serializedVersion: 2
-        x: 45
-        y: 34
-        width: 18
-        height: 18
+        x: 8
+        y: 1
+        width: 90
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,74 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 179f64b6b35009920800000000000000
-      internalID: 2994899504962402673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerMaskIcon_3
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 15
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66a085ceed8dbb620800000000000000
-      internalID: 2791062846045686374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerMaskIcon_4
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 15
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: da3dede5fc102f570800000000000000
-      internalID: 8498857436963066797
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerMaskIcon_5
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 15
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5350fb7c2f5d51060800000000000000
-      internalID: 6923675240861992245
+      spriteID: 2d4390bf9846d5b80800000000000000
+      internalID: -8404450785818495790
       vertices: []
       indices: 
       edges: []
@@ -263,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 36320c06f92c0da4f852a435a6aaffe8
+    spriteID: 0c5f862af1edf9b4898071a0ebe4c1ac
     internalID: 0
     vertices: []
     indices: 
@@ -273,12 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PlayerMaskIcon_0: -8631283204784401669
-      PlayerMaskIcon_1: 436859146730752373
-      PlayerMaskIcon_2: 2994899504962402673
-      PlayerMaskIcon_3: 2791062846045686374
-      PlayerMaskIcon_4: 8498857436963066797
-      PlayerMaskIcon_5: 6923675240861992245
+      BagMenu_0: 4871809735609114892
+      BagMenu_1: -8601661415780687150
+      BagMenu_2: -8404450785818495790
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
