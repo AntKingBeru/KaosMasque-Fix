@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScreen.unity
     guid: 666ce5381f3e08244a582dd1f4ee817e
   - enabled: 1
+    path: "Assets/Scenes/ComentaristaM\xE1scaraIntro.unity"
+    guid: 42416e8a5b2d78d4fadb876e2a84c6ff
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:

@@ -1,52 +1,40 @@
 fileFormatVersion: 2
-guid: bc99a30c6a2c45f498da5528e1026913
+guid: 59ece3ebf6fc5fe4d875449941695a53
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9006382222299238608
-    second: UI_Interface_0
+      213: 3093045374630344526
+    second: Interface_0
   - first:
-      213: 4591403591589717300
-    second: UI_Interface_1
+      213: 6166191105313548921
+    second: Interface_1
   - first:
-      213: 6225976877944024123
-    second: UI_Interface_2
+      213: 6645267774847150050
+    second: Interface_2
   - first:
-      213: 8126200593413434908
-    second: UI_Interface_3
+      213: 6489428544528313055
+    second: Interface_3
   - first:
-      213: 6567263025651892027
-    second: UI_Interface_4
+      213: -159245420439134157
+    second: Interface_4
   - first:
-      213: -8191156042620933414
-    second: UI_Interface_5
+      213: 9162267596532196578
+    second: Interface_5
   - first:
-      213: 2873589741127620709
-    second: UI_Interface_6
+      213: -6087873826881956765
+    second: Interface_6
   - first:
-      213: -7267783330501050823
-    second: UI_Interface_7
+      213: 8004920879445932023
+    second: Interface_7
   - first:
-      213: -8228827640150659698
-    second: UI_Interface_8
+      213: -3906201513680891111
+    second: Interface_8
   - first:
-      213: -475089947675477242
-    second: UI_Interface_9
+      213: -8634539977682777084
+    second: Interface_9
   - first:
-      213: -6879146815356456263
-    second: UI_Interface_10
-  - first:
-      213: 1079713170206818657
-    second: UI_Interface_11
-  - first:
-      213: 28783041994466955
-    second: UI_Interface_12
-  - first:
-      213: -8989242616500170039
-    second: UI_Interface_13
-  - first:
-      213: -9084359885795931129
-    second: UI_Interface_14
+      213: 3296059887323227081
+    second: Interface_10
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -93,7 +81,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -138,83 +126,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Int_Mask
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 114
-        width: 42
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3c26addbfc176650800000000000000
-      internalID: 6225976877944024123
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cha_Mask
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 114
-        width: 42
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c1ee9ff926016c070800000000000000
-      internalID: 8126200593413434908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Str_Mask
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 114
-        width: 42
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3fb98e4dea932b50800000000000000
-      internalID: 6567263025651892027
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Str_Attack
+      name: ButtonOutline
       rect:
         serializedVersion: 2
         x: 5
-        y: 84
+        y: 107
         width: 55
-        height: 18
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 93ebaf83195a32b90800000000000000
-      internalID: -7267783330501050823
+      spriteID: e47b10d6164bcea20800000000000000
+      internalID: 3093045374630344526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Attack
+      name: ButtonOutline_Square
       rect:
         serializedVersion: 2
-        x: 64
-        y: 84
-        width: 55
-        height: 18
+        x: 65
+        y: 123
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,20 +180,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e8d67e60cd45dcd80800000000000000
-      internalID: -8228827640150659698
+      spriteID: 97a2361f326b29550800000000000000
+      internalID: 6166191105313548921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HP_Out
+      name: SettingsIcon
       rect:
         serializedVersion: 2
-        x: 170
-        y: 98
+        x: 89
+        y: 124
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e76d1545dbb83c50800000000000000
+      internalID: 6645267774847150050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP_Bar_Outline
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 107
         width: 60
-        height: 13
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60bb170b5342869f0800000000000000
-      internalID: -475089947675477242
+      spriteID: fdae3e7f0e41f0a50800000000000000
+      internalID: 6489428544528313055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HP_In
+      name: Button_Red
       rect:
         serializedVersion: 2
-        x: 170
-        y: 88
-        width: 58
-        height: 9
+        x: 5
+        y: 83
+        width: 55
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,20 +246,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b23be03b6c5880a0800000000000000
-      internalID: -6879146815356456263
+      spriteID: 3302e92422f3acdf0800000000000000
+      internalID: -159245420439134157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Int_Attack
+      name: Button_Purple
       rect:
         serializedVersion: 2
         x: 64
-        y: 64
+        y: 83
         width: 55
-        height: 18
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,20 +268,86 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b86a2a13602466000800000000000000
-      internalID: 28783041994466955
+      spriteID: 2e4af54d5d9e62f70800000000000000
+      internalID: 9162267596532196578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CombatBack
+      name: HP_Bar_Fill
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 95
+        width: 56
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3649d476207838ba0800000000000000
+      internalID: -6087873826881956765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_White
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f77b72c021371f60800000000000000
+      internalID: 8004920879445932023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Blue
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91315f35b626ac9c0800000000000000
+      internalID: -3906201513680891111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP
       rect:
         serializedVersion: 2
         x: 138
         y: 52
         width: 100
-        height: 31
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,14 +356,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c254b3a77bcf3380800000000000000
-      internalID: -8989242616500170039
+      spriteID: 40c0f4753a3fb2880800000000000000
+      internalID: -8634539977682777084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Front
+      name: Bottom
       rect:
         serializedVersion: 2
         x: 0
@@ -355,8 +378,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70c435b90dedde180800000000000000
-      internalID: -9084359885795931129
+      spriteID: 9c3a0561105fdbd20800000000000000
+      internalID: 3296059887323227081
       vertices: []
       indices: 
       edges: []
@@ -365,7 +388,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 7107ee21ac45e7344aa68458a5b5b1bb
+    spriteID: efb547a2d063e234f9edd7ab2cd68805
     internalID: 0
     vertices: []
     indices: 
@@ -375,21 +398,17 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Cha_Attack: -8228827640150659698
-      Cha_Mask: 8126200593413434908
-      CombatBack: -8989242616500170039
-      Front: -9084359885795931129
-      HP_In: -6879146815356456263
-      HP_Out: -475089947675477242
-      Int_Attack: 28783041994466955
-      Int_Mask: 6225976877944024123
-      Str_Attack: -7267783330501050823
-      Str_Mask: 6567263025651892027
-      UI_Interface_0: -9006382222299238608
-      UI_Interface_1: 4591403591589717300
-      UI_Interface_11: 1079713170206818657
-      UI_Interface_5: -8191156042620933414
-      UI_Interface_6: 2873589741127620709
+      Bottom: 3296059887323227081
+      ButtonOutline: 3093045374630344526
+      ButtonOutline_Square: 6166191105313548921
+      Button_Blue: -3906201513680891111
+      Button_Purple: 9162267596532196578
+      Button_Red: -159245420439134157
+      Button_White: 8004920879445932023
+      HP: -8634539977682777084
+      HP_Bar_Fill: -6087873826881956765
+      HP_Bar_Outline: 6489428544528313055
+      SettingsIcon: 6645267774847150050
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
